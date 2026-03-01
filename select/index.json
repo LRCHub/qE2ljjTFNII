@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Champion",
+  "base_artist": "BLACKPINK",
+  "createdAt": "2026-03-01T07:18:30.451770Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "The Champion",
+      "artist": "Carrie Underwood feat. Ludacris",
+      "has_synced": true,
+      "path": "select/01_The_Champion_Carrie_Underwood_feat._Ludacris.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "The Champion (Bonus Track)",
+      "artist": "Carrie Underwood",
+      "has_synced": true,
+      "path": "select/02_The_Champion_(Bonus_Track)_Carrie_Underwood.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Champion Angel",
+      "artist": "The Low Anthem",
+      "has_synced": true,
+      "path": "select/03_Champion_Angel_The_Low_Anthem.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Champion (Edited))",
+      "artist": "Nicki Minaj feat. Nas, Drake & Young Jeezy",
+      "has_synced": false,
+      "path": "select/04_Champion_(Edited))_Nicki_Minaj_feat._Nas,_Drake_&_Young_Jeezy.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "My Turn (feat. Lightspeed Champion)",
+      "artist": "Basement Jaxx",
+      "has_synced": true,
+      "path": "select/05_My_Turn_(feat._Lightspeed_Champion)_Basement_Jaxx.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "All Rights Reversed (feat. Klaxons & Lightspeed Champion)",
+      "artist": "The Chemical Brothers",
+      "has_synced": true,
+      "path": "select/06_All_Rights_Reversed_(feat._Klaxons_&_Lightspeed_Champion)_The_Chemical_Brothers.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Champion",
+      "artist": "Clipse",
+      "has_synced": true,
+      "path": "select/07_Champion_Clipse.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Champion Sound - Alt. Version",
+      "artist": "Crystal Fighters",
+      "has_synced": true,
+      "path": "select/08_Champion_Sound_-_Alt._Version_Crystal_Fighters.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "CHAMPION",
+      "artist": "DaBaby",
+      "has_synced": true,
+      "path": "select/09_CHAMPION_DaBaby.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "CHAMPION",
+      "artist": "DaBaby",
+      "has_synced": true,
+      "path": "select/10_CHAMPION_DaBaby.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Champion",
+      "artist": "Bonfire",
+      "has_synced": true,
+      "path": "select/11_Champion_Bonfire.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Champion",
+      "artist": "Lee Aaron",
+      "has_synced": false,
+      "path": "select/12_Champion_Lee_Aaron.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Champion Sound",
+      "artist": "Fatboy Slim",
+      "has_synced": true,
+      "path": "select/13_Champion_Sound_Fatboy_Slim.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Champion Sound - Digital Dog Remix",
+      "artist": "Fatboy Slim",
+      "has_synced": false,
+      "path": "select/14_Champion_Sound_-_Digital_Dog_Remix_Fatboy_Slim.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Champion Sound (Digital Dog Remix)",
+      "artist": "Fatboy Slim",
+      "has_synced": false,
+      "path": "select/15_Champion_Sound_(Digital_Dog_Remix)_Fatboy_Slim.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Champion Sound - Switch Remix",
+      "artist": "Fatboy Slim",
+      "has_synced": false,
+      "path": "select/16_Champion_Sound_-_Switch_Remix_Fatboy_Slim.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Champion",
+      "artist": "BLACKPINK",
+      "has_synced": false,
+      "path": "select/pl_01_Champion_BLACKPINK.txt"
+    }
+  ]
+}
